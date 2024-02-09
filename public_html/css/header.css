@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap");
+
+body {
+    background-color: #f8f9fa;
+    font-family: "Poppins", sans-serif;
+    width: 100%;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.card-header {
+    background-color: #28a745;
+    color: #000;
+    font-size: 1.5rem;
+}
+
+.card-body {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#newsChart {
+    margin-top: 20px;
+}
+
+.navbar-custom {
+    background: #00dfc4 !important;
+    border: 1px solid #00dfc4;
+    color: #223243 !important;
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1),
+        5px 5px 15px rgba(0, 0, 0, 0.35),
+        inset -5px -5px 15px rgba(255, 255, 255, 0.1),
+        inset 5px 5px 15px rgba(0, 0, 0, 0.35) !important;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #223243 !important; 
+}
+
+.navbar-custom .navbar-nav .nav-link:hover {
+    color: #223243 !important; 
+}
+
+.navbar-custom .navbar-nav .nav-item.active a {
+    color: #223243 !important;
+}
+
+
+.navbar-custom a {
+    color: #223243 !important; 
+}
+
+.navbar-custom .navbar-nav .nav-link span {
+    color: #223243 !important;
+}
+
+.navbar-custom a:hover {
+    color: #00dfc4; 
+}
+
+.navbar-custom .navbar-toggler-icon {
+    background-color: #223243; 
+}
+
+.navbar-custom .nav-item.active a {
+    color: #00dfc4; 
+}
+
+.navbar-custom .navbar-nav .nav-item.dropdown:hover .nav-link {
+    color: #00dfc4;
+}
+
+.navbar-custom .navbar-nav .nav-item.dropdown-menu a {
+    color: #ffffff;
+}
+
+.navbar-custom .navbar-nav .nav-item.dropdown-menu a:hover {
+    background-color: #00dfc4;
+    color: #223243; 
+}
+
+.navbar-custom .navbar-nav .nav-item.dropdown .dropdown-menu {
+    background: #00dfc4 !important;
+    border: 1px solid #00dfc4;
+    color: #223243 !important;
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(0, 0, 0, 0.35),
+    inset -5px -5px 15px rgba(255, 255, 255, 0.1),
+    inset 5px 5px 15px rgba(0, 0, 0, 0.35) !important;
+}
+
+.navbar-custom .navbar-nav .nav-item.dropdown:hover .dropdown-menu {
+    background: #00dfc4 !important;
+    border: 1px solid #00dfc4;
+    color: #223243 !important;
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(0, 0, 0, 0.35),
+    inset -5px -5px 15px rgba(255, 255, 255, 0.1),
+    inset 5px 5px 15px rgba(0, 0, 0, 0.35) !important;
+}
+
+.navbar-custom .navbar-nav .nav-item.dropdown .dropdown-menu a:hover {
+    background: #00dfc4 !important;
+    border: 1px solid #00dfc4;
+    color: #223243 !important;
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: -5px -5px 15px rgba(255, 255, 255, 0.1),
+    5px 5px 15px rgba(0, 0, 0, 0.35),
+    inset -5px -5px 15px rgba(255, 255, 255, 0.1),
+    inset 5px 5px 15px rgba(0, 0, 0, 0.35) !important;
+}
